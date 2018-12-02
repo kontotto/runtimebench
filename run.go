@@ -25,7 +25,6 @@ var runCommand = cli.Command{
 		}
 
 		fmt.Println(result)
-
 		return nil
 	},
 }
